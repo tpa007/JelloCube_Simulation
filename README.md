@@ -1,5 +1,9 @@
 # JelloCube_Simulation
 
+Simulation of a Jello Cube using C++ and OpenGL.
+
+Added the linker libraries glut and glew32.
+
 Software Required: Visual Studio 2017 CE.
 
 Run the project in debug mode in X86 environment.
