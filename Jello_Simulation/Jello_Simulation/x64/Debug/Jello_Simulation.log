@@ -1,0 +1,30 @@
+﻿  showCube.cpp
+f:\jellocube_pavai_cse594\jello_simulation\jello_simulation\showcube.cpp(5): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  ppm.cpp
+f:\jellocube_pavai_cse594\jello_simulation\jello_simulation\ppm.cpp(47): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+f:\jellocube_pavai_cse594\jello_simulation\jello_simulation\ppm.cpp(57): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(2260): note: see declaration of 'sscanf'
+f:\jellocube_pavai_cse594\jello_simulation\jello_simulation\ppm.cpp(58): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(2260): note: see declaration of 'sscanf'
+f:\jellocube_pavai_cse594\jello_simulation\jello_simulation\ppm.cpp(80): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+f:\jellocube_pavai_cse594\jello_simulation\jello_simulation\ppm.cpp(91): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(2260): note: see declaration of 'sscanf'
+f:\jellocube_pavai_cse594\jello_simulation\jello_simulation\ppm.cpp(92): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(2260): note: see declaration of 'sscanf'
+f:\jellocube_pavai_cse594\jello_simulation\jello_simulation\ppm.cpp(93): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(2260): note: see declaration of 'sscanf'
+f:\jellocube_pavai_cse594\jello_simulation\jello_simulation\ppm.cpp(130): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  pic.cpp
+f:\jellocube_pavai_cse594\jello_simulation\jello_simulation\pic.cpp(55): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+f:\jellocube_pavai_cse594\jello_simulation\jello_simulation\pic.cpp(52): warning C4101: 'byte': unreferenced local variable
+f:\jellocube_pavai_cse594\jello_simulation\jello_simulation\pic.cpp(53): warning C4101: 'i': unreferenced local variable
+  physics.cpp
+  jello.cpp
+f:\jellocube_pavai_cse594\jello_simulation\jello_simulation\jello.cpp(7): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  input.cpp
+f:\jellocube_pavai_cse594\jello_simulation\jello_simulation\input.cpp(6): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  Generating Code...
